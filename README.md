@@ -1,4 +1,4 @@
-# Hey, I'm Siddhant!   
+# Hey, I'm Siddhant! ✌️
 
 I’m a robotics engineer focused on **control, optimization, and autonomy** — building systems where **model-based methods and learning meet**.
 
