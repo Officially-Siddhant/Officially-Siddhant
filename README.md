@@ -6,6 +6,7 @@ I've just graduated with a Masters in Electrical Engineering at NYU, working on 
 
 I care about one thing:  
 > making autonomous systems behave reliably in the real world — not just in clean simulations.
+That said, here is my website: [sous_chef](https://officially-siddhant.github.io)
 
 ---
 
