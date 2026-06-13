@@ -2,7 +2,7 @@
 
 I’m a robotics engineer focused on **control, optimization, and autonomy** — building systems where **model-based methods and learning meet**.
 
-I've just graduated with a Masters in Electrical Engineering at NYU, working on **multi-modal anomaly detection for autonomous vehicles** and building high-fidelity simulation pipelines across CARLA, Isaac Sim, and MuJoCo. Got the car in the image above working at the same time! ![bugy](bugy.jpg) 
+I've just graduated with a Masters in Electrical Engineering at NYU, working on **multi-modal anomaly detection for autonomous vehicles** and building high-fidelity simulation pipelines across CARLA, Isaac Sim, and MuJoCo. Meanwhile, also spearheading projects on the kart we've built! ![bugy](bugy.jpg) 
 
 I care about one thing:  
 > making autonomous systems behave reliably in the real world — not just in clean simulations.
