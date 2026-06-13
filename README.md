@@ -12,9 +12,10 @@ I care about one thing:
 ## 🔭 What I'm working on
 
 - 🚗 **Autonomous Driving Research (ASAS Lab)**  
-  Multi-modal anomaly detection using VLMs + statistical models  
+  Multi-modal anomaly detection using VLMs + statistical models: (two papers out!)
   → semantic reasoning (Cosmos) + internal fault detection (Isolation Forest)  
-  → evaluated in CARLA with ISO 26262-style safety framing  
+  → evaluated in CARLA with ISO 26262-style safety framing
+  
 
 - 🧠 **Embodied AI for Edge Cases**  
   Defining *“external anomalies”* as semantic constraint violations  
@@ -34,7 +35,7 @@ I care about one thing:
 
 ---
 
-## 🧰 Tech I actually use
+## 🧰 Tech I use
 
 **Core**
 
@@ -62,7 +63,7 @@ I care about one thing:
 
 ## 🌱 Currently thinking about
 
-- How **learning-based policies + optimal control** should coexist (not compete)  
+- How **learning-based policies + optimal control** should coexist (not compete). And I'm exploring this using NMPC based tandem drifting!
 - Behavior simulation as the *real bottleneck* in autonomy stacks  
 - Pushing **simulation → real transfer** without cheating physics  
 - Real-time constraints in VLM-based reasoning systems  
